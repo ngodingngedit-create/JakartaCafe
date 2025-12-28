@@ -1,0 +1,1222 @@
+[
+  {
+    "nama_cafe": null,
+    "google_maps_url": null,
+    "rating": null,
+    "jumlah_review": null,
+    "kategori": null,
+    "alamat": null,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "nama_cafe": null,
+    "google_maps_url": null,
+    "rating": null,
+    "jumlah_review": null,
+    "kategori": null,
+    "alamat": null,
+    "latitude": null,
+    "longitude": null
+  },
+  {
+    "nama_cafe": "Feelin Coffee",
+    "google_maps_url": "https://www.google.com/maps/place/Feelin+Coffee/data=!4m7!3m6!1s0x2e69ed9a79724ca1:0xf472976c48326387!8m2!3d-6.304628!4d106.8335086!16s%2Fg%2F11k6vfmspj!19sChIJoUxyeZrtaS4Rh2MySGyXcvQ?authuser=0&hl=id&rclk=1",
+    "rating": "4,7",
+    "jumlah_review": "(182)",
+    "kategori": "·",
+    "alamat": "Kedai Kopi",
+    "latitude": -6.304628,
+    "longitude": 106.8335086
+  },
+  {
+    "nama_cafe": "EZBLES JAKARTA",
+    "google_maps_url": "https://www.google.com/maps/place/EZBLES+JAKARTA/data=!4m7!3m6!1s0x2e69f38277f33153:0xed4b086486a00ee5!8m2!3d-6.3064937!4d106.8340948!16s%2Fg%2F11js2vx8kx!19sChIJUzHzd4LzaS4R5Q6ghmQIS-0?authuser=0&hl=id&rclk=1",
+    "rating": "4,8",
+    "jumlah_review": "(12)",
+    "kategori": null,
+    "alamat": "Kedai Kopi",
+    "latitude": -6.3064937,
+    "longitude": 106.8340948
+  },
+  {
+    "nama_cafe": "Flash Coffee - Kebagusan",
+    "google_maps_url": "https://www.google.com/maps/place/Flash+Coffee+-+Kebagusan/data=!4m7!3m6!1s0x2e69ed63436107f9:0xa64e641219d33efd!8m2!3d-6.3008434!4d106.8300231!16s%2Fg%2F11qh7f49d5!19sChIJ-QdhQ2PtaS4R_T7TGRJkTqY?authuser=0&hl=id&rclk=1",
+    "rating": "4,7",
+    "jumlah_review": "(77)",
+    "kategori": "·",
+    "alamat": "Kafe",
+    "latitude": -6.3008434,
+    "longitude": 106.8300231
+  },
+  {
+    "nama_cafe": "Fore Coffee - Kebagusan, Jakarta",
+    "google_maps_url": "https://www.google.com/maps/place/Fore+Coffee+-+Kebagusan,+Jakarta/data=!4m7!3m6!1s0x2e69ed8bffb6c73d:0x4a8c865eed38fe27!8m2!3d-6.3010894!4d106.8316378!16s%2Fg%2F11h1hv1slx!19sChIJPce2_4vtaS4RJ_447V6GjEo?authuser=0&hl=id&rclk=1",
+    "rating": "4,6",
+    "jumlah_review": "(360)",
+    "kategori": "·",
+    "alamat": "Kedai Kopi",
+    "latitude": -6.3010894,
+    "longitude": 106.8316378
+  },
+  {
+    "nama_cafe": "Kopi Dari Hati - Korre Cafe & K-Carwash Stasiun Tanjung Barat",
+    "google_maps_url": "https://www.google.com/maps/place/Kopi+Dari+Hati+-+Korre+Cafe+%26+K-Carwash+Stasiun+Tanjung+Barat/data=!4m7!3m6!1s0x2e69ed3e68c4ddf7:0x94ee7fe0104e1d81!8m2!3d-6.3056255!4d106.8350146!16s%2Fg%2F11jt1p_50l!19sChIJ993EaD7taS4RgR1OEOB_7pQ?authuser=0&hl=id&rclk=1",
+    "rating": "4,0",
+    "jumlah_review": "(144)",
+    "kategori": "·",
+    "alamat": "Kedai Kopi",
+    "latitude": -6.3056255,
+    "longitude": 106.8350146
+  },
+  {
+    "nama_cafe": "CUKO Coffee & Eatery",
+    "google_maps_url": "https://www.google.com/maps/place/CUKO+Coffee+%26+Eatery/data=!4m7!3m6!1s0x2e69ed0d44935b73:0x4f103862fbfdb953!8m2!3d-6.3028699!4d106.8271828!16s%2Fg%2F11rwrrxdf_!19sChIJc1uTRA3taS4RU7n9-2I4EE8?authuser=0&hl=id&rclk=1",
+    "rating": "4,6",
+    "jumlah_review": "(220)",
+    "kategori": "·",
+    "alamat": "Kedai Kopi",
+    "latitude": -6.3028699,
+    "longitude": 106.8271828
+  },
+  {
+    "nama_cafe": "SamPan Cafe",
+    "google_maps_url": "https://www.google.com/maps/place/SamPan+Cafe/data=!4m7!3m6!1s0x2e69f3961bd478df:0x60cb329f4570c19e!8m2!3d-6.296687!4d106.8322504!16s%2Fg%2F11s8_9l490!19sChIJ33jUG5bzaS4RnsFwRZ8yy2A?authuser=0&hl=id&rclk=1",
+    "rating": "4,9",
+    "jumlah_review": "(385)",
+    "kategori": "·",
+    "alamat": "Kafe",
+    "latitude": -6.296687,
+    "longitude": 106.8322504
+  },
+  {
+    "nama_cafe": "Dibawah Tangga",
+    "google_maps_url": "https://www.google.com/maps/place/Dibawah+Tangga/data=!4m7!3m6!1s0x2e69eda3148b2cc7:0x2a0214b0d1e34402!8m2!3d-6.3004497!4d106.8336467!16s%2Fg%2F11j2yxd9bz!19sChIJxyyLFKPtaS4RAkTj0bAUAio?authuser=0&hl=id&rclk=1",
+    "rating": "4,7",
+    "jumlah_review": "(127)",
+    "kategori": "·",
+    "alamat": "Kedai Kopi",
+    "latitude": -6.3004497,
+    "longitude": 106.8336467
+  },
+  {
+    "nama_cafe": "Lamoenan Cafe",
+    "google_maps_url": "https://www.google.com/maps/place/Lamoenan+Cafe/data=!4m7!3m6!1s0x2e69f34a4dd29aef:0x33a6048b793266!8m2!3d-6.2985218!4d106.8360685!16s%2Fg%2F11sm72sy7l!19sChIJ75rSTUrzaS4RZjJ5iwSmMwA?authuser=0&hl=id&rclk=1",
+    "rating": "4,4",
+    "jumlah_review": "(359)",
+    "kategori": "·",
+    "alamat": "Kedai Kopi",
+    "latitude": -6.2985218,
+    "longitude": 106.8360685
+  },
+  {
+    "nama_cafe": "KEDAI TERAS BOENDA",
+    "google_maps_url": "https://www.google.com/maps/place/KEDAI+TERAS+BOENDA/data=!4m7!3m6!1s0x2e69edea14739ef1:0xa98673877c1b5b3b!8m2!3d-6.3046199!4d106.8335128!16s%2Fg%2F11j7vfzntg!19sChIJ8Z5zFOrtaS4RO1sbfIdzhqk?authuser=0&hl=id&rclk=1",
+    "rating": "4,9",
+    "jumlah_review": "(40)",
+    "kategori": null,
+    "alamat": "Kafe",
+    "latitude": -6.3046199,
+    "longitude": 106.8335128
+  },
+  {
+    "nama_cafe": "PAPA SIGNATURE CAFE - Coffee Tea & Eatery Kebagusan Jakarta",
+    "google_maps_url": "https://www.google.com/maps/place/PAPA+SIGNATURE+CAFE+-+Coffee+Tea+%26+Eatery+Kebagusan+Jakarta/data=!4m7!3m6!1s0x2e69ed3a48d03033:0xf333b7317308ddf!8m2!3d-6.31162!4d106.8265064!16s%2Fg%2F11xsf2svf6!19sChIJMzDQSDrtaS4R340wF3M7Mw8?authuser=0&hl=id&rclk=1",
+    "rating": "4,9",
+    "jumlah_review": "(46)",
+    "kategori": "·",
+    "alamat": "Kafe",
+    "latitude": -6.31162,
+    "longitude": 106.8265064
+  },
+  {
+    "nama_cafe": "Tema Coffee",
+    "google_maps_url": "https://www.google.com/maps/place/Tema+Coffee/data=!4m7!3m6!1s0x2e69f37f4bda2539:0x2d0214974ea6822b!8m2!3d-6.2972776!4d106.8351198!16s%2Fg%2F11jv3ffdhj!19sChIJOSXaS3_zaS4RK4KmTpcUAi0?authuser=0&hl=id&rclk=1",
+    "rating": "4,7",
+    "jumlah_review": "(36)",
+    "kategori": "·",
+    "alamat": "Kafe",
+    "latitude": -6.2972776,
+    "longitude": 106.8351198
+  },
+  {
+    "nama_cafe": "Qisas Caffe",
+    "google_maps_url": "https://www.google.com/maps/place/Qisas+Caffe/data=!4m7!3m6!1s0x2e69ede2b46ff05d:0x88d3671d84a12635!8m2!3d-6.304988!4d106.8401633!16s%2Fg%2F11smtgdjx7!19sChIJXfBvtOLtaS4RNSahhB1n04g?authuser=0&hl=id&rclk=1",
+    "rating": "4,5",
+    "jumlah_review": "(43)",
+    "kategori": "·",
+    "alamat": "Kedai Kopi",
+    "latitude": -6.304988,
+    "longitude": 106.8401633
+  },
+  {
+    "nama_cafe": "Javatoscana Garden Resto & Cafe",
+    "google_maps_url": "https://www.google.com/maps/place/Javatoscana+Garden+Resto+%26+Cafe/data=!4m7!3m6!1s0x2e69edf397a046eb:0x981f5cb978520ae7!8m2!3d-6.3022959!4d106.8401473!16s%2Fg%2F11qrsp_vbr!19sChIJ60agl_PtaS4R5wpSeLlcH5g?authuser=0&hl=id&rclk=1",
+    "rating": "4,7",
+    "jumlah_review": "(711)",
+    "kategori": "·",
+    "alamat": "Sesuai untuk keluarga",
+    "latitude": -6.3022959,
+    "longitude": 106.8401473
+  },
+  {
+    "nama_cafe": "Le.a Coffee & Social Space (Lea Coffee)",
+    "google_maps_url": "https://www.google.com/maps/place/Le.a+Coffee+%26+Social+Space+%28Lea+Coffee%29/data=!4m7!3m6!1s0x2e69ed8779f8ae29:0x4b6064458b390fb0!8m2!3d-6.3170036!4d106.836259!16s%2Fg%2F11s5jw7p75!19sChIJKa74eYftaS4RsA85i0VkYEs?authuser=0&hl=id&rclk=1",
+    "rating": "4,7",
+    "jumlah_review": "(86)",
+    "kategori": "·",
+    "alamat": "Kedai Kopi",
+    "latitude": -6.3170036,
+    "longitude": 106.836259
+  },
+  {
+    "nama_cafe": "T&C Terrace",
+    "google_maps_url": "https://www.google.com/maps/place/T%26C+Terrace/data=!4m7!3m6!1s0x2e69ed154e84f06f:0x2278b544c9a37e7e!8m2!3d-6.3140031!4d106.8276262!16s%2Fg%2F11js3cx43g!19sChIJb_CEThXtaS4Rfn6jyUS1eCI?authuser=0&hl=id&rclk=1",
+    "rating": "4,9",
+    "jumlah_review": "(63)",
+    "kategori": "·",
+    "alamat": "Kedai Kopi",
+    "latitude": -6.3140031,
+    "longitude": 106.8276262
+  },
+  {
+    "nama_cafe": "The Celsius Coffee",
+    "google_maps_url": "https://www.google.com/maps/place/The+Celsius+Coffee/data=!4m7!3m6!1s0x2e69ed4f02cad591:0x934cb01a29fba788!8m2!3d-6.3015615!4d106.8230503!16s%2Fg%2F11kppy__02!19sChIJkdXKAk_taS4RiKf7KRqwTJM?authuser=0&hl=id&rclk=1",
+    "rating": "4,8",
+    "jumlah_review": "(26)",
+    "kategori": "·",
+    "alamat": "Kedai Kopi",
+    "latitude": -6.3015615,
+    "longitude": 106.8230503
+  },
+  {
+    "nama_cafe": "Kedai Kopi Luxa, Tanjung Barat",
+    "google_maps_url": "https://www.google.com/maps/place/Kedai+Kopi+Luxa,+Tanjung+Barat/data=!4m7!3m6!1s0x2e69f3e1c6ea887f:0x46ff5a001c1452b!8m2!3d-6.3026012!4d106.8401354!16s%2Fg%2F11lz1nxzjm!19sChIJf4jqxuHzaS4RK0XBAaD1bwQ?authuser=0&hl=id&rclk=1",
+    "rating": "5,0",
+    "jumlah_review": "(262)",
+    "kategori": "·",
+    "alamat": "Kedai Kopi",
+    "latitude": -6.3026012,
+    "longitude": 106.8401354
+  },
+  {
+    "nama_cafe": "Cafe & Resto Serendipity (Poolside & Garden View)",
+    "google_maps_url": "https://www.google.com/maps/place/Cafe+%26+Resto+Serendipity+%28Poolside+%26+Garden+View%29/data=!4m7!3m6!1s0x2e69efc9ce5c6cff:0x828e9e4e5cf78c54!8m2!3d-6.3248111!4d106.8147404!16s%2Fg%2F11ncbv9d6d!19sChIJ_2xczsnvaS4RVIz3XE6ejoI?authuser=0&hl=id&rclk=1",
+    "rating": "4,6",
+    "jumlah_review": "(414)",
+    "kategori": "·",
+    "alamat": "Kafe",
+    "latitude": -6.3248111,
+    "longitude": 106.8147404
+  },
+  {
+    "nama_cafe": "McCafe",
+    "google_maps_url": "https://www.google.com/maps/place/McCafe/data=!4m7!3m6!1s0x2e69ed8eb2593d9b:0x8f3013051012f9d2!8m2!3d-6.303775!4d106.848207!16s%2Fg%2F11dz5lt1h2!19sChIJmz1Zso7taS4R0vkSEAUTMI8?authuser=0&hl=id&rclk=1",
+    "rating": "4,6",
+    "jumlah_review": "(2.037)",
+    "kategori": "·",
+    "alamat": "Kafe",
+    "latitude": -6.303775,
+    "longitude": 106.848207
+  },
+  {
+    "nama_cafe": "Pocut Dara Boutique Cafe",
+    "google_maps_url": "https://www.google.com/maps/place/Pocut+Dara+Boutique+Cafe/data=!4m7!3m6!1s0x2e69f20a934c81e1:0x60303f7baa92ff9c!8m2!3d-6.2973696!4d106.8397009!16s%2Fg%2F11c1v9gfvg!19sChIJ4YFMkwryaS4RnP-Sqns_MGA?authuser=0&hl=id&rclk=1",
+    "rating": "4,6",
+    "jumlah_review": "(242)",
+    "kategori": "·",
+    "alamat": "Kafe",
+    "latitude": -6.2973696,
+    "longitude": 106.8397009
+  },
+  {
+    "nama_cafe": "Kopi Dibawahtangga De Entrance Arkadia",
+    "google_maps_url": "https://www.google.com/maps/place/Kopi+Dibawahtangga+De+Entrance+Arkadia/data=!4m7!3m6!1s0x2e69ed67f2606305:0xaa7b743c459a0e6!8m2!3d-6.3004574!4d106.8336662!16s%2Fg%2F11fqbz1sfw!19sChIJBWNg8mftaS4R5qBZxEO3pwo?authuser=0&hl=id&rclk=1",
+    "rating": "4,7",
+    "jumlah_review": "(78)",
+    "kategori": "·",
+    "alamat": "Kedai Kopi",
+    "latitude": -6.3004574,
+    "longitude": 106.8336662
+  },
+  {
+    "nama_cafe": "Hole in One Coffee Cafe",
+    "google_maps_url": "https://www.google.com/maps/place/Hole+in+One+Coffee+Cafe/data=!4m7!3m6!1s0x2e69f108f57cc7e5:0x6b586780d0c68966!8m2!3d-6.297147!4d106.8148524!16s%2Fg%2F11fkvlnysx!19sChIJ5cd89QjxaS4RZonG0IBnWGs?authuser=0&hl=id&rclk=1",
+    "rating": "4,5",
+    "jumlah_review": "(116)",
+    "kategori": "·",
+    "alamat": "Kedai Kopi",
+    "latitude": -6.297147,
+    "longitude": 106.8148524
+  },
+  {
+    "nama_cafe": "Ladang Coffee Pack",
+    "google_maps_url": "https://www.google.com/maps/place/Ladang+Coffee+Pack/data=!4m7!3m6!1s0x2e69ef31786c8d1f:0x46de903f52615d7e!8m2!3d-6.3163708!4d106.8143401!16s%2Fg%2F11bxdvf4vs!19sChIJH41seDHvaS4Rfl1hUj-Q3kY?authuser=0&hl=id&rclk=1",
+    "rating": "4,4",
+    "jumlah_review": "(946)",
+    "kategori": "·",
+    "alamat": "Kedai Kopi",
+    "latitude": -6.3163708,
+    "longitude": 106.8143401
+  },
+  {
+    "nama_cafe": "Demi Masa - Home Brewed Coffee",
+    "google_maps_url": "https://www.google.com/maps/place/Demi+Masa+-+Home+Brewed+Coffee/data=!4m7!3m6!1s0x2e69edb987b031a1:0xe3f6cfc7b259a7d9!8m2!3d-6.3065289!4d106.8320963!16s%2Fg%2F11p5z9rzm3!19sChIJoTGwh7ntaS4R2adZssfP9uM?authuser=0&hl=id&rclk=1",
+    "rating": "5,0",
+    "jumlah_review": "(6)",
+    "kategori": null,
+    "alamat": "Kedai Kopi",
+    "latitude": -6.3065289,
+    "longitude": 106.8320963
+  },
+  {
+    "nama_cafe": "You Coffee and Resto",
+    "google_maps_url": "https://www.google.com/maps/place/You+Coffee+and+Resto/data=!4m7!3m6!1s0x2e69ef1f394b56b5:0x4d6847b3422c120!8m2!3d-6.3192318!4d106.8151177!16s%2Fg%2F11fhw0002z!19sChIJtVZLOR_vaS4RIMEiNHuE1gQ?authuser=0&hl=id&rclk=1",
+    "rating": "4,5",
+    "jumlah_review": "(866)",
+    "kategori": "·",
+    "alamat": "Sunda",
+    "latitude": -6.3192318,
+    "longitude": 106.8151177
+  },
+  {
+    "nama_cafe": "Blob Coffee Bar",
+    "google_maps_url": "https://www.google.com/maps/place/Blob+Coffee+Bar/data=!4m7!3m6!1s0x2e69ef67d0a0c4f7:0x2c9a2cfc56b0ee4e!8m2!3d-6.3155769!4d106.811808!16s%2Fg%2F11s7w8twnv!19sChIJ98Sg0GfvaS4RTu6wVvwsmiw?authuser=0&hl=id&rclk=1",
+    "rating": "4,7",
+    "jumlah_review": "(64)",
+    "kategori": "·",
+    "alamat": "Kedai Kopi",
+    "latitude": -6.3155769,
+    "longitude": 106.811808
+  },
+  {
+    "nama_cafe": "Kopi Quin - Donuthing - Skyla Vape Store",
+    "google_maps_url": "https://www.google.com/maps/place/Kopi+Quin+-+Donuthing+-+Skyla+Vape+Store/data=!4m7!3m6!1s0x2e69edc432dc4889:0xdd8b9a16db2a299b!8m2!3d-6.3004592!4d106.8295486!16s%2Fg%2F11rfrsb3xr!19sChIJiUjcMsTtaS4Rmykq2xaai90?authuser=0&hl=id&rclk=1",
+    "rating": "4,9",
+    "jumlah_review": "(18)",
+    "kategori": "·",
+    "alamat": "Kedai Kopi",
+    "latitude": -6.3004592,
+    "longitude": 106.8295486
+  },
+  {
+    "nama_cafe": "Point Coffee",
+    "google_maps_url": "https://www.google.com/maps/place/Point+Coffee/data=!4m7!3m6!1s0x2e69f3ab6c29a139:0x41c56507d84e539f!8m2!3d-6.2982484!4d106.8296641!16s%2Fg%2F11j2fkly_1!19sChIJOaEpbKvzaS4Rn1NO2AdlxUE?authuser=0&hl=id&rclk=1",
+    "rating": "4,0",
+    "jumlah_review": "(14)",
+    "kategori": "·",
+    "alamat": "Kedai Kopi",
+    "latitude": -6.2982484,
+    "longitude": 106.8296641
+  },
+  {
+    "nama_cafe": "KOPITIAM IJAZ",
+    "google_maps_url": "https://www.google.com/maps/place/KOPITIAM+IJAZ/data=!4m7!3m6!1s0x2e69ede978c9f59b:0x3b4321e86e4145a5!8m2!3d-6.3051288!4d106.8186832!16s%2Fg%2F11rlk4j6bg!19sChIJm_XJeOntaS4RpUVBbughQzs?authuser=0&hl=id&rclk=1",
+    "rating": "4,6",
+    "jumlah_review": "(256)",
+    "kategori": "·",
+    "alamat": "Kedai Kopi",
+    "latitude": -6.3051288,
+    "longitude": 106.8186832
+  },
+  {
+    "nama_cafe": "Beantaro Kopi - Ragunan",
+    "google_maps_url": "https://www.google.com/maps/place/Beantaro+Kopi+-+Ragunan/data=!4m7!3m6!1s0x2e69edfcda0d5eff:0xb4f24fa36ee337ed!8m2!3d-6.3014938!4d106.8213639!16s%2Fg%2F11vkc44724!19sChIJ_14N2vztaS4R7TfjbqNP8rQ?authuser=0&hl=id&rclk=1",
+    "rating": "4,7",
+    "jumlah_review": "(31)",
+    "kategori": "·",
+    "alamat": "Kedai Kopi",
+    "latitude": -6.3014938,
+    "longitude": 106.8213639
+  },
+  {
+    "nama_cafe": "Mallavaknese Coffee",
+    "google_maps_url": "https://www.google.com/maps/place/Mallavaknese+Coffee/data=!4m7!3m6!1s0x2e69f3ac9bab2e01:0x3bf196b3b8eaa089!8m2!3d-6.2974511!4d106.8487355!16s%2Fg%2F11rmq3c623!19sChIJAS6rm6zzaS4RiaDquLOW8Ts?authuser=0&hl=id&rclk=1",
+    "rating": "4,8",
+    "jumlah_review": "(24)",
+    "kategori": null,
+    "alamat": "Kedai Kopi",
+    "latitude": -6.2974511,
+    "longitude": 106.8487355
+  },
+  {
+    "nama_cafe": "D’Paso Coffee",
+    "google_maps_url": "https://www.google.com/maps/place/D%E2%80%99Paso+Coffee/data=!4m7!3m6!1s0x2e69ef6aeb5e455b:0x178078a49e9de28d!8m2!3d-6.3173474!4d106.8158002!16s%2Fg%2F11pyvq55qx!19sChIJW0Ve62rvaS4RjeKdnqR4gBc?authuser=0&hl=id&rclk=1",
+    "rating": "4,6",
+    "jumlah_review": "(71)",
+    "kategori": null,
+    "alamat": "Kedai Kopi",
+    "latitude": -6.3173474,
+    "longitude": 106.8158002
+  },
+  {
+    "nama_cafe": "Kedai Chaning / d’Wibs",
+    "google_maps_url": "https://www.google.com/maps/place/Kedai+Chaning+%2F+d%E2%80%99Wibs/data=!4m7!3m6!1s0x2e69f112058ea9c3:0x5f4b0c6b9ef2458b!8m2!3d-6.3047824!4d106.8339346!16s%2Fg%2F11q83vmq77!19sChIJw6mOBRLxaS4Ri0XynmsMS18?authuser=0&hl=id&rclk=1",
+    "rating": "5,0",
+    "jumlah_review": "(1)",
+    "kategori": null,
+    "alamat": "Kedai Kopi",
+    "latitude": -6.3047824,
+    "longitude": 106.8339346
+  },
+  {
+    "nama_cafe": "KOPI'IN",
+    "google_maps_url": "https://www.google.com/maps/place/KOPI%27IN/data=!4m7!3m6!1s0x2e69edad4ca7c203:0xf416e0927d4912a3!8m2!3d-6.3042779!4d106.8330005!16s%2Fg%2F11fd_lx49l!19sChIJA8KnTK3taS4RoxJJfZLgFvQ?authuser=0&hl=id&rclk=1",
+    "rating": "4,8",
+    "jumlah_review": "(11)",
+    "kategori": null,
+    "alamat": "Kafe",
+    "latitude": -6.3042779,
+    "longitude": 106.8330005
+  },
+  {
+    "nama_cafe": "Toko Kopi Seduh - Jagakarsa (Forest View)",
+    "google_maps_url": "https://www.google.com/maps/place/Toko+Kopi+Seduh+-+Jagakarsa+%28Forest+View%29/data=!4m7!3m6!1s0x2e69ef1abe7cb743:0x2d83d0d8a5b79472!8m2!3d-6.3218351!4d106.8140452!16s%2Fg%2F11hzwh5hyj!19sChIJQ7d8vhrvaS4RcpS3pdjQgy0?authuser=0&hl=id&rclk=1",
+    "rating": "4,5",
+    "jumlah_review": "(1.713)",
+    "kategori": "·",
+    "alamat": "Kedai Kopi",
+    "latitude": -6.3218351,
+    "longitude": 106.8140452
+  },
+  {
+    "nama_cafe": "Hersie Coffee",
+    "google_maps_url": "https://www.google.com/maps/place/Hersie+Coffee/data=!4m7!3m6!1s0x2e69e50d7f3f4281:0x64c7bb6df2185f50!8m2!3d-6.3027001!4d106.8365628!16s%2Fg%2F11f9yls585!19sChIJgUI_fw3laS4RUF8Y8m27x2Q?authuser=0&hl=id&rclk=1",
+    "rating": "4,7",
+    "jumlah_review": "(94)",
+    "kategori": null,
+    "alamat": "Kafe",
+    "latitude": -6.3027001,
+    "longitude": 106.8365628
+  },
+  {
+    "nama_cafe": "Kopi Dari Hati Tanjung Barat",
+    "google_maps_url": "https://www.google.com/maps/place/Kopi+Dari+Hati+Tanjung+Barat/data=!4m7!3m6!1s0x2e69ed2187004ca5:0x95c12e220c0f2d7f!8m2!3d-6.3080796!4d106.8467337!16s%2Fg%2F11ny4gxjd5!19sChIJpUwAhyHtaS4Rfy0PDCIuwZU?authuser=0&hl=id&rclk=1",
+    "rating": "4,6",
+    "jumlah_review": "(61)",
+    "kategori": "·",
+    "alamat": "Kedai Kopi",
+    "latitude": -6.3080796,
+    "longitude": 106.8467337
+  },
+  {
+    "nama_cafe": "Lyfe Coffee Simatupang",
+    "google_maps_url": "https://www.google.com/maps/place/Lyfe+Coffee+Simatupang/data=!4m7!3m6!1s0x2e69ed007629ffd9:0x22528cd26aa5f50!8m2!3d-6.3035358!4d106.8466419!16s%2Fg%2F11ldxtks8b!19sChIJ2f8pdgDtaS4RUF-qJs0oJQI?authuser=0&hl=id&rclk=1",
+    "rating": "4,9",
+    "jumlah_review": "(35)",
+    "kategori": "·",
+    "alamat": "Kedai Kopi",
+    "latitude": -6.3035358,
+    "longitude": 106.8466419
+  },
+  {
+    "nama_cafe": "LORONG KOPI",
+    "google_maps_url": "https://www.google.com/maps/place/LORONG+KOPI/data=!4m7!3m6!1s0x2e69ef793a835e45:0xc064cf5a04340690!8m2!3d-6.3104532!4d106.8132978!16s%2Fg%2F11pdfzztgb!19sChIJRV6DOnnvaS4RkAY0BFrPZMA?authuser=0&hl=id&rclk=1",
+    "rating": "4,6",
+    "jumlah_review": "(299)",
+    "kategori": null,
+    "alamat": "Kedai Kopi",
+    "latitude": -6.3104532,
+    "longitude": 106.8132978
+  },
+  {
+    "nama_cafe": "Infus Garden Ragunan",
+    "google_maps_url": "https://www.google.com/maps/place/Infus+Garden+Ragunan/data=!4m7!3m6!1s0x2e69f3003514306f:0x4572c248f24c181b!8m2!3d-6.2938493!4d106.8210319!16s%2Fg%2F11ldqrwy9q!19sChIJbzAUNQDzaS4RGxhM8kjCckU?authuser=0&hl=id&rclk=1",
+    "rating": "4,6",
+    "jumlah_review": "(40)",
+    "kategori": "·",
+    "alamat": "Kedai Kopi",
+    "latitude": -6.2938493,
+    "longitude": 106.8210319
+  },
+  {
+    "nama_cafe": "Pentas Kopi",
+    "google_maps_url": "https://www.google.com/maps/place/Pentas+Kopi/data=!4m7!3m6!1s0x2e69f39f1992aac5:0x5a9976eea7b4ccaf!8m2!3d-6.2924915!4d106.8282622!16s%2Fg%2F11jcvsnj57!19sChIJxaqSGZ_zaS4Rr8y0p-52mVo?authuser=0&hl=id&rclk=1",
+    "rating": "4,4",
+    "jumlah_review": "(35)",
+    "kategori": null,
+    "alamat": "Kedai Kopi",
+    "latitude": -6.2924915,
+    "longitude": 106.8282622
+  },
+  {
+    "nama_cafe": "JAG'S Kitchen",
+    "google_maps_url": "https://www.google.com/maps/place/JAG%27S+Kitchen/data=!4m7!3m6!1s0x2e69ee76f8165407:0xfff23f54e7517990!8m2!3d-6.3268683!4d106.8146396!16s%2Fg%2F11cjk2cz29!19sChIJB1QW-HbuaS4RkHlR51Q_8v8?authuser=0&hl=id&rclk=1",
+    "rating": "4,4",
+    "jumlah_review": "(3.184)",
+    "kategori": "·",
+    "alamat": "Kafe",
+    "latitude": -6.3268683,
+    "longitude": 106.8146396
+  },
+  {
+    "nama_cafe": "GOFFEÉ Doughnuts & Coffee Pasar Minggu",
+    "google_maps_url": "https://www.google.com/maps/place/GOFFE%C3%89+Doughnuts+%26+Coffee+Pasar+Minggu/data=!4m7!3m6!1s0x2e69f38e8bd5dcb1:0xebd54eb6123df489!8m2!3d-6.2941571!4d106.8283039!16s%2Fg%2F11y5zqg9_m!19sChIJsdzVi47zaS4RifQ9ErZO1es?authuser=0&hl=id&rclk=1",
+    "rating": "4,5",
+    "jumlah_review": "(61)",
+    "kategori": "·",
+    "alamat": "Kafe",
+    "latitude": -6.2941571,
+    "longitude": 106.8283039
+  },
+  {
+    "nama_cafe": "Brown Fox Waffle & Coffee",
+    "google_maps_url": "https://www.google.com/maps/place/Brown+Fox+Waffle+%26+Coffee/data=!4m7!3m6!1s0x2e69f21b523757a5:0xcb6c5182f01a1a1e!8m2!3d-6.2888613!4d106.8244105!16s%2Fg%2F11b5wlyqt1!19sChIJpVc3UhvyaS4RHhoa8IJRbMs?authuser=0&hl=id&rclk=1",
+    "rating": "4,6",
+    "jumlah_review": "(1.696)",
+    "kategori": "·",
+    "alamat": "Kafe",
+    "latitude": -6.2888613,
+    "longitude": 106.8244105
+  },
+  {
+    "nama_cafe": "Omnikopi",
+    "google_maps_url": "https://www.google.com/maps/place/Omnikopi/data=!4m7!3m6!1s0x2e69f3e2fc6ce66d:0xef6d76bfb8cb1862!8m2!3d-6.290813!4d106.8235123!16s%2Fg%2F11fqj4mshf!19sChIJbeZs_OLzaS4RYhjLuL92be8?authuser=0&hl=id&rclk=1",
+    "rating": "4,6",
+    "jumlah_review": "(785)",
+    "kategori": "·",
+    "alamat": "Kedai Kopi",
+    "latitude": -6.290813,
+    "longitude": 106.8235123
+  },
+  {
+    "nama_cafe": "Cafe Del Rai",
+    "google_maps_url": "https://www.google.com/maps/place/Cafe+Del+Rai/data=!4m7!3m6!1s0x2e69ed6ba49342f7:0x61eb6475b82ffe55!8m2!3d-6.3168847!4d106.8180642!16s%2Fg%2F11hdk272jv!19sChIJ90KTpGvtaS4RVf4vuHVk62E?authuser=0&hl=id&rclk=1",
+    "rating": "5,0",
+    "jumlah_review": "(3)",
+    "kategori": null,
+    "alamat": "Kafe",
+    "latitude": -6.3168847,
+    "longitude": 106.8180642
+  },
+  {
+    "nama_cafe": "BRUNO Cafe in the Park",
+    "google_maps_url": "https://www.google.com/maps/place/BRUNO+Cafe+in+the+Park/data=!4m7!3m6!1s0x2e69f3ab5ef391ad:0x109715d25f86f4c7!8m2!3d-6.2888821!4d106.8235973!16s%2Fg%2F11jny24d73!19sChIJrZHzXqvzaS4Rx_SGX9IVlxA?authuser=0&hl=id&rclk=1",
+    "rating": "4,6",
+    "jumlah_review": "(931)",
+    "kategori": "·",
+    "alamat": "Kafe",
+    "latitude": -6.2888821,
+    "longitude": 106.8235973
+  },
+  {
+    "nama_cafe": "Amor Kopi",
+    "google_maps_url": "https://www.google.com/maps/place/Amor+Kopi/data=!4m7!3m6!1s0x2e69eda49a4f1425:0xacd00b8026d2aa9!8m2!3d-6.2940685!4d106.8211902!16s%2Fg%2F11flc3kctx!19sChIJJRRPmqTtaS4RqSptArgAzQo?authuser=0&hl=id&rclk=1",
+    "rating": "4,8",
+    "jumlah_review": "(9)",
+    "kategori": null,
+    "alamat": "Kafe",
+    "latitude": -6.2940685,
+    "longitude": 106.8211902
+  },
+  {
+    "nama_cafe": "NETIJEN CAFE and RESTO",
+    "google_maps_url": "https://www.google.com/maps/place/NETIJEN+CAFE+and+RESTO/data=!4m7!3m6!1s0x2e69edad4c53d6c1:0xe5de3d305eb44868!8m2!3d-6.3283419!4d106.8245555!16s%2Fg%2F11f9xcv8yh!19sChIJwdZTTK3taS4RaEi0XjA93uU?authuser=0&hl=id&rclk=1",
+    "rating": "4,4",
+    "jumlah_review": "(488)",
+    "kategori": "·",
+    "alamat": "Kafe",
+    "latitude": -6.3283419,
+    "longitude": 106.8245555
+  },
+  {
+    "nama_cafe": "Keping Kopi",
+    "google_maps_url": "https://www.google.com/maps/place/Keping+Kopi/data=!4m7!3m6!1s0x2e69edd3656205a1:0x249799ea18d37690!8m2!3d-6.3003845!4d106.8227901!16s%2Fg%2F11h03dhdr7!19sChIJoQViZdPtaS4RkHbTGOqZlyQ?authuser=0&hl=id&rclk=1",
+    "rating": "4,9",
+    "jumlah_review": "(116)",
+    "kategori": "·",
+    "alamat": "Kafe",
+    "latitude": -6.3003845,
+    "longitude": 106.8227901
+  },
+  {
+    "nama_cafe": "Dekat Cafe",
+    "google_maps_url": "https://www.google.com/maps/place/Dekat+Cafe/data=!4m7!3m6!1s0x2e69edd913443e93:0x292c42aaf2a14f6a!8m2!3d-6.3261237!4d106.8223886!16s%2Fg%2F11dxswlv2g!19sChIJkz5EE9ntaS4Rak-h8qpCLCk?authuser=0&hl=id&rclk=1",
+    "rating": "5,0",
+    "jumlah_review": "(1)",
+    "kategori": null,
+    "alamat": "Kafe",
+    "latitude": -6.3261237,
+    "longitude": 106.8223886
+  },
+  {
+    "nama_cafe": "TM Coffee & Mart",
+    "google_maps_url": "https://www.google.com/maps/place/TM+Coffee+%26+Mart/data=!4m7!3m6!1s0x2e69f378f8f15071:0x957b4834417c054a!8m2!3d-6.3081695!4d106.8395311!16s%2Fg%2F11sjlmp72g!19sChIJcVDx-HjzaS4RSgV8QTRIe5U?authuser=0&hl=id&rclk=1",
+    "rating": "5,0",
+    "jumlah_review": "(6)",
+    "kategori": null,
+    "alamat": "Kedai Kopi",
+    "latitude": -6.3081695,
+    "longitude": 106.8395311
+  },
+  {
+    "nama_cafe": "Eco Coffee",
+    "google_maps_url": "https://www.google.com/maps/place/Eco+Coffee/data=!4m7!3m6!1s0x2e69ed564af415ad:0xc921a88474795639!8m2!3d-6.3026707!4d106.8486439!16s%2Fg%2F11jcpwx98m!19sChIJrRX0SlbtaS4ROVZ5dISoIck?authuser=0&hl=id&rclk=1",
+    "rating": "4,8",
+    "jumlah_review": "(75)",
+    "kategori": null,
+    "alamat": "Kedai Kopi",
+    "latitude": -6.3026707,
+    "longitude": 106.8486439
+  },
+  {
+    "nama_cafe": "Dapoer Dejavu",
+    "google_maps_url": "https://www.google.com/maps/place/Dapoer+Dejavu/data=!4m7!3m6!1s0x2e69f30e331ccb77:0x89a289b3cba5227d!8m2!3d-6.2986433!4d106.8214938!16s%2Fg%2F11rkp2bdvk!19sChIJd8scMw7zaS4RfSKly7OJook?authuser=0&hl=id&rclk=1",
+    "rating": "4,6",
+    "jumlah_review": "(44)",
+    "kategori": "·",
+    "alamat": "Kedai Kopi",
+    "latitude": -6.2986433,
+    "longitude": 106.8214938
+  },
+  {
+    "nama_cafe": "Cegelas Coffee",
+    "google_maps_url": "https://www.google.com/maps/place/Cegelas+Coffee/data=!4m7!3m6!1s0x2e69f3da3ae0bed5:0xee945c6dd0e8ca17!8m2!3d-6.2863465!4d106.8273282!16s%2Fg%2F11mkzm0ck9!19sChIJ1b7gOtrzaS4RF8ro0G1clO4?authuser=0&hl=id&rclk=1",
+    "rating": "5,0",
+    "jumlah_review": "(22)",
+    "kategori": "·",
+    "alamat": "Kedai Kopi",
+    "latitude": -6.2863465,
+    "longitude": 106.8273282
+  },
+  {
+    "nama_cafe": "KOZI Coffee 3.7 Jeruk Purut",
+    "google_maps_url": "https://www.google.com/maps/place/KOZI+Coffee+3.7+Jeruk+Purut/data=!4m7!3m6!1s0x2e69f1f7293a6b8f:0x544069c1e04f9fa4!8m2!3d-6.286896!4d106.8123624!16s%2Fg%2F11f03tb5wm!19sChIJj2s6KffxaS4RpJ9P4MFpQFQ?authuser=0&hl=id&rclk=1",
+    "rating": "4,6",
+    "jumlah_review": "(868)",
+    "kategori": "·",
+    "alamat": "Kedai Kopi",
+    "latitude": -6.286896,
+    "longitude": 106.8123624
+  },
+  {
+    "nama_cafe": "Garanti Coffee Jakarta",
+    "google_maps_url": "https://www.google.com/maps/place/Garanti+Coffee+Jakarta/data=!4m7!3m6!1s0x2e69f3c1aabbdbf1:0x70b0591867422234!8m2!3d-6.2862891!4d106.8277167!16s%2Fg%2F11s2h_h7v8!19sChIJ8du7qsHzaS4RNCJCZxhZsHA?authuser=0&hl=id&rclk=1",
+    "rating": "4,9",
+    "jumlah_review": "(26)",
+    "kategori": "·",
+    "alamat": "Kedai Kopi",
+    "latitude": -6.2862891,
+    "longitude": 106.8277167
+  },
+  {
+    "nama_cafe": "Stréat Koppi",
+    "google_maps_url": "https://www.google.com/maps/place/Str%C3%A9at+Koppi/data=!4m7!3m6!1s0x2e69ef3bae9c1a03:0x5412423a4154f2ff!8m2!3d-6.3307301!4d106.8082616!16s%2Fg%2F11tdkc_lyg!19sChIJAxqcrjvvaS4R__JUQTpCElQ?authuser=0&hl=id&rclk=1",
+    "rating": "4,7",
+    "jumlah_review": "(711)",
+    "kategori": "·",
+    "alamat": "Kedai Kopi",
+    "latitude": -6.3307301,
+    "longitude": 106.8082616
+  },
+  {
+    "nama_cafe": "Tanatap Coffee Ampera",
+    "google_maps_url": "https://www.google.com/maps/place/Tanatap+Coffee+Ampera/data=!4m7!3m6!1s0x2e69f38ba7efdcf1:0xbd19ec7c4e3538b8!8m2!3d-6.2808133!4d106.8203976!16s%2Fg%2F11pkdpkvcg!19sChIJ8dzvp4vzaS4RuDg1TnzsGb0?authuser=0&hl=id&rclk=1",
+    "rating": "4,8",
+    "jumlah_review": "(5.971)",
+    "kategori": "·",
+    "alamat": "Kedai Kopi",
+    "latitude": -6.2808133,
+    "longitude": 106.8203976
+  },
+  {
+    "nama_cafe": "DeLoRet Resto, Bar & Cafe",
+    "google_maps_url": "https://www.google.com/maps/place/DeLoRet+Resto,+Bar+%26+Cafe/data=!4m7!3m6!1s0x2e69f10a7a72d977:0x5d1bc6880f433767!8m2!3d-6.287844!4d106.8071949!16s%2Fg%2F11pc5ylg8h!19sChIJd9lyegrxaS4RZzdDD4jGG10?authuser=0&hl=id&rclk=1",
+    "rating": "4,4",
+    "jumlah_review": "(826)",
+    "kategori": "·",
+    "alamat": "Kafe",
+    "latitude": -6.287844,
+    "longitude": 106.8071949
+  },
+  {
+    "nama_cafe": "Kedai 123",
+    "google_maps_url": "https://www.google.com/maps/place/Kedai+123/data=!4m7!3m6!1s0x2e69eda1ef844be9:0x12fc8da87a1f5e2e!8m2!3d-6.3044022!4d106.8325635!16s%2Fg%2F11h8c3qnk8!19sChIJ6UuE76HtaS4RLl4feqiN_BI?authuser=0&hl=id&rclk=1",
+    "rating": "4,6",
+    "jumlah_review": "(5)",
+    "kategori": null,
+    "alamat": "Kafe",
+    "latitude": -6.3044022,
+    "longitude": 106.8325635
+  },
+  {
+    "nama_cafe": "TOMORO COFFEE - Pasar Minggu",
+    "google_maps_url": "https://www.google.com/maps/place/TOMORO+COFFEE+-+Pasar+Minggu/data=!4m7!3m6!1s0x2e69f30047e2e3e7:0x32304afdc9f0f9ab!8m2!3d-6.2853113!4d106.8436068!16s%2Fg%2F11w1wt5xnz!19sChIJ5-PiRwDzaS4Rq_nwyf1KMDI?authuser=0&hl=id&rclk=1",
+    "rating": "4,8",
+    "jumlah_review": "(132)",
+    "kategori": "·",
+    "alamat": "Kedai Kopi",
+    "latitude": -6.2853113,
+    "longitude": 106.8436068
+  },
+  {
+    "nama_cafe": "Pictum Coffee & Kitchen",
+    "google_maps_url": "https://www.google.com/maps/place/Pictum+Coffee+%26+Kitchen/data=!4m7!3m6!1s0x2e69f3601a50c06f:0xa5c695f567b4c4d4!8m2!3d-6.2856468!4d106.839544!16s%2Fg%2F11y1ftf5xh!19sChIJb8BQGmDzaS4R1MS0Z_WVxqU?authuser=0&hl=id&rclk=1",
+    "rating": "4,3",
+    "jumlah_review": "(84)",
+    "kategori": "·",
+    "alamat": "Kedai Kopi",
+    "latitude": -6.2856468,
+    "longitude": 106.839544
+  },
+  {
+    "nama_cafe": "hijoe kopi",
+    "google_maps_url": "https://www.google.com/maps/place/hijoe+kopi/data=!4m7!3m6!1s0x2e69edb9d2318f19:0xff4e708b23b4567a!8m2!3d-6.3292176!4d106.8291701!16s%2Fg%2F11l77mq197!19sChIJGY8x0rntaS4Rela0I4twTv8?authuser=0&hl=id&rclk=1",
+    "rating": "4,4",
+    "jumlah_review": "(176)",
+    "kategori": "·",
+    "alamat": "Kedai Kopi",
+    "latitude": -6.3292176,
+    "longitude": 106.8291701
+  },
+  {
+    "nama_cafe": "MENUJU KEDAI KOPI",
+    "google_maps_url": "https://www.google.com/maps/place/MENUJU+KEDAI+KOPI/data=!4m7!3m6!1s0x2e69ed7e8eefef45:0xabea0d644c2c12f3!8m2!3d-6.3214754!4d106.8255698!16s%2Fg%2F11h05c39ft!19sChIJRe_vjn7taS4R8xIsTGQN6qs?authuser=0&hl=id&rclk=1",
+    "rating": "5,0",
+    "jumlah_review": "(56)",
+    "kategori": "·",
+    "alamat": "Kedai Kopi",
+    "latitude": -6.3214754,
+    "longitude": 106.8255698
+  },
+  {
+    "nama_cafe": "Merene Coffee & Eatery",
+    "google_maps_url": "https://www.google.com/maps/place/Merene+Coffee+%26+Eatery/data=!4m7!3m6!1s0x2e69f327afd818e5:0x83d76980af110485!8m2!3d-6.2773748!4d106.8267892!16s%2Fg%2F11sh230c3l!19sChIJ5RjYryfzaS4RhQQRr4Bp14M?authuser=0&hl=id&rclk=1",
+    "rating": "4,7",
+    "jumlah_review": "(550)",
+    "kategori": "·",
+    "alamat": "Kafe",
+    "latitude": -6.2773748,
+    "longitude": 106.8267892
+  },
+  {
+    "nama_cafe": "Gordi HQ",
+    "google_maps_url": "https://www.google.com/maps/place/Gordi+HQ/data=!4m7!3m6!1s0x2e69f1f6aaaaf82b:0x63c4be8f258156e3!8m2!3d-6.284245!4d106.8117769!16s%2Fg%2F11c2q2qq43!19sChIJK_iqqvbxaS4R41aBJY--xGM?authuser=0&hl=id&rclk=1",
+    "rating": "4,6",
+    "jumlah_review": "(1.732)",
+    "kategori": "·",
+    "alamat": "Kafe",
+    "latitude": -6.284245,
+    "longitude": 106.8117769
+  },
+  {
+    "nama_cafe": "Teras Coffee 40",
+    "google_maps_url": "https://www.google.com/maps/place/Teras+Coffee+40/data=!4m7!3m6!1s0x2e69f38dd1782059:0x32e73df7eca2dc65!8m2!3d-6.2869962!4d106.8412245!16s%2Fg%2F11t5lz2cpr!19sChIJWSB40Y3zaS4RZdyi7Pc95zI?authuser=0&hl=id&rclk=1",
+    "rating": "4,6",
+    "jumlah_review": "(8)",
+    "kategori": null,
+    "alamat": "Kedai Kopi",
+    "latitude": -6.2869962,
+    "longitude": 106.8412245
+  },
+  {
+    "nama_cafe": "RMU Cafe",
+    "google_maps_url": "https://www.google.com/maps/place/RMU+Cafe/data=!4m7!3m6!1s0x2e69f26d24b8e8d5:0x104abb478ac079cc!8m2!3d-6.286205!4d106.8423482!16s%2Fg%2F11g9dpm870!19sChIJ1ei4JG3yaS4RzHnAike7ShA?authuser=0&hl=id&rclk=1",
+    "rating": "4,7",
+    "jumlah_review": "(43)",
+    "kategori": "·",
+    "alamat": "Kafe",
+    "latitude": -6.286205,
+    "longitude": 106.8423482
+  },
+  {
+    "nama_cafe": "The Barnas Coffee",
+    "google_maps_url": "https://www.google.com/maps/place/The+Barnas+Coffee/data=!4m7!3m6!1s0x2e69f3f0fe045f31:0xfe039ebc9422bcc2!8m2!3d-6.2877807!4d106.8187115!16s%2Fg%2F11lm0srht2!19sChIJMV8E_vDzaS4RwrwilLyeA_4?authuser=0&hl=id&rclk=1",
+    "rating": "5,0",
+    "jumlah_review": "(7)",
+    "kategori": null,
+    "alamat": "Kedai Kopi",
+    "latitude": -6.2877807,
+    "longitude": 106.8187115
+  },
+  {
+    "nama_cafe": "Sehela Kopi",
+    "google_maps_url": "https://www.google.com/maps/place/Sehela+Kopi/data=!4m7!3m6!1s0x2e69efeff641671d:0x949fff339c46136f!8m2!3d-6.3056368!4d106.7923289!16s%2Fg%2F11n8sx_r46!19sChIJHWdB9u_vaS4RbxNGnDP_n5Q?authuser=0&hl=id&rclk=1",
+    "rating": "4,7",
+    "jumlah_review": "(847)",
+    "kategori": "·",
+    "alamat": "Kafe",
+    "latitude": -6.3056368,
+    "longitude": 106.7923289
+  },
+  {
+    "nama_cafe": "Kenduri Coffee pasar minggu",
+    "google_maps_url": "https://www.google.com/maps/place/Kenduri+Coffee+pasar+minggu/data=!4m7!3m6!1s0x2e69f3ead29bf431:0x5b36383087cda96f!8m2!3d-6.286387!4d106.827339!16s%2Fg%2F11sv1d54mm!19sChIJMfSb0urzaS4Rb6nNhzA4Nls?authuser=0&hl=id&rclk=1",
+    "rating": "5,0",
+    "jumlah_review": "(40)",
+    "kategori": "·",
+    "alamat": "Kedai Kopi",
+    "latitude": -6.286387,
+    "longitude": 106.827339
+  },
+  {
+    "nama_cafe": "Sometimes Coffee",
+    "google_maps_url": "https://www.google.com/maps/place/Sometimes+Coffee/data=!4m7!3m6!1s0x2e69f3583731b497:0x794c546e21a93eea!8m2!3d-6.2835865!4d106.8305821!16s%2Fg%2F11w3hb22l5!19sChIJl7QxN1jzaS4R6j6pIW5UTHk?authuser=0&hl=id&rclk=1",
+    "rating": "4,9",
+    "jumlah_review": "(26)",
+    "kategori": "·",
+    "alamat": "Kedai Kopi",
+    "latitude": -6.2835865,
+    "longitude": 106.8305821
+  },
+  {
+    "nama_cafe": "Twin House Cipete",
+    "google_maps_url": "https://www.google.com/maps/place/Twin+House+Cipete/data=!4m7!3m6!1s0x2e69f192bdca75ad:0x141c8ac2e3010488!8m2!3d-6.2786967!4d106.8049042!16s%2Fg%2F11cmtb67xv!19sChIJrXXKvZLxaS4RiAQB48KKHBQ?authuser=0&hl=id&rclk=1",
+    "rating": "4,5",
+    "jumlah_review": "(4.608)",
+    "kategori": "·",
+    "alamat": "Masakan Barat",
+    "latitude": -6.2786967,
+    "longitude": 106.8049042
+  },
+  {
+    "nama_cafe": "Work Coffee Jakarta",
+    "google_maps_url": "https://www.google.com/maps/place/Work+Coffee+Jakarta/data=!4m7!3m6!1s0x2e69efa0ed960983:0xe7aa42278e7d87db!8m2!3d-6.3108714!4d106.7867311!16s%2Fg%2F11p705q_8t!19sChIJgwmW7aDvaS4R24d9jidCquc?authuser=0&hl=id&rclk=1",
+    "rating": "4,6",
+    "jumlah_review": "(828)",
+    "kategori": "·",
+    "alamat": "Kedai Kopi",
+    "latitude": -6.3108714,
+    "longitude": 106.7867311
+  },
+  {
+    "nama_cafe": "Dua Coffee @Cipete",
+    "google_maps_url": "https://www.google.com/maps/place/Dua+Coffee+@Cipete/data=!4m7!3m6!1s0x2e69f1937afff06d:0x6ca2dff9eae7470d!8m2!3d-6.2778789!4d106.8004899!16s%2Fg%2F11c1pn5y84!19sChIJbfD_epPxaS4RDUfn6vnfomw?authuser=0&hl=id&rclk=1",
+    "rating": "4,6",
+    "jumlah_review": "(2.629)",
+    "kategori": "·",
+    "alamat": "Kedai Kopi",
+    "latitude": -6.2778789,
+    "longitude": 106.8004899
+  },
+  {
+    "nama_cafe": "HANGOUT @Salihara",
+    "google_maps_url": "https://www.google.com/maps/place/HANGOUT+@Salihara/data=!4m7!3m6!1s0x2e69f21457da8311:0xf4d0123e6b85e710!8m2!3d-6.2813906!4d106.838541!16s%2Fg%2F11f1s1b7fx!19sChIJEYPaVxTyaS4REOeFaz4S0PQ?authuser=0&hl=id&rclk=1",
+    "rating": "4,5",
+    "jumlah_review": "(825)",
+    "kategori": "·",
+    "alamat": "Kafe",
+    "latitude": -6.2813906,
+    "longitude": 106.838541
+  },
+  {
+    "nama_cafe": "TRUE LOVE COFFEE",
+    "google_maps_url": "https://www.google.com/maps/place/TRUE+LOVE+COFFEE/data=!4m7!3m6!1s0x2e69f313c0a1c213:0x9dc58d2b31c95a92!8m2!3d-6.2807641!4d106.8354581!16s%2Fg%2F11hdqvgltb!19sChIJE8KhwBPzaS4RklrJMSuNxZ0?authuser=0&hl=id&rclk=1",
+    "rating": "5,0",
+    "jumlah_review": "(22)",
+    "kategori": null,
+    "alamat": "Kafe",
+    "latitude": -6.2807641,
+    "longitude": 106.8354581
+  },
+  {
+    "nama_cafe": "Asuka Brewing & Space",
+    "google_maps_url": "https://www.google.com/maps/place/Asuka+Brewing+%26+Space/data=!4m7!3m6!1s0x2e69f35985efc69f:0xee7219e0e6df5c31!8m2!3d-6.2765994!4d106.8414783!16s%2Fg%2F11xfb38l01!19sChIJn8bvhVnzaS4RMVzf5uAZcu4?authuser=0&hl=id&rclk=1",
+    "rating": "5,0",
+    "jumlah_review": "(109)",
+    "kategori": "·",
+    "alamat": "Kedai Kopi",
+    "latitude": -6.2765994,
+    "longitude": 106.8414783
+  },
+  {
+    "nama_cafe": "Asuka Brewing & Space",
+    "google_maps_url": "https://www.google.com/maps/place/Asuka+Brewing+%26+Space/data=!4m7!3m6!1s0x2e69f35985efc69f:0xee7219e0e6df5c31!8m2!3d-6.2765994!4d106.8414783!16s%2Fg%2F11xfb38l01!19sChIJn8bvhVnzaS4RMVzf5uAZcu4?authuser=0&hl=id&rclk=1",
+    "rating": "5,0",
+    "jumlah_review": "(109)",
+    "kategori": "·",
+    "alamat": "Kedai Kopi",
+    "latitude": -6.2765994,
+    "longitude": 106.8414783
+  },
+  {
+    "nama_cafe": "Kedai Ina",
+    "google_maps_url": "https://www.google.com/maps/place/Kedai+Ina/data=!4m7!3m6!1s0x2e69f21a7c0fea21:0xcf9b4bf3bf32e835!8m2!3d-6.2856735!4d106.8292854!16s%2Fg%2F11bv3vqdf_!19sChIJIeoPfBryaS4RNegyv_NLm88?authuser=0&hl=id&rclk=1",
+    "rating": "4,4",
+    "jumlah_review": "(173)",
+    "kategori": "·",
+    "alamat": "Kafe",
+    "latitude": -6.2856735,
+    "longitude": 106.8292854
+  },
+  {
+    "nama_cafe": "Roots & Grow",
+    "google_maps_url": "https://www.google.com/maps/place/Roots+%26+Grow/data=!4m7!3m6!1s0x2e69f34375e9dfd1:0x259b934db45c888!8m2!3d-6.273427!4d106.8248666!16s%2Fg%2F11nwwvwxgb!19sChIJ0d_pdUPzaS4RiMhF2zS5WQI?authuser=0&hl=id&rclk=1",
+    "rating": "4,8",
+    "jumlah_review": "(499)",
+    "kategori": "·",
+    "alamat": "Kafe",
+    "latitude": -6.273427,
+    "longitude": 106.8248666
+  },
+  {
+    "nama_cafe": "Barik Cafe",
+    "google_maps_url": "https://www.google.com/maps/place/Barik+Cafe/data=!4m7!3m6!1s0x2e69f1d693948733:0xed4070b6287136a4!8m2!3d-6.3009399!4d106.7935132!16s%2Fg%2F11h4kn7g7r!19sChIJM4eUk9bxaS4RpDZxKLZwQO0?authuser=0&hl=id&rclk=1",
+    "rating": "5,0",
+    "jumlah_review": "(145)",
+    "kategori": "·",
+    "alamat": "Kedai Kopi",
+    "latitude": -6.3009399,
+    "longitude": 106.7935132
+  },
+  {
+    "nama_cafe": "ROTI BAKAR KEMANG",
+    "google_maps_url": "https://www.google.com/maps/place/ROTI+BAKAR+KEMANG/data=!4m7!3m6!1s0x2e69f30e5def8c6b:0x62f05e32e10c921b!8m2!3d-6.275634!4d106.8208854!16s%2Fg%2F11ddzfmmmp!19sChIJa4zvXQ7zaS4RG5IM4TJe8GI?authuser=0&hl=id&rclk=1",
+    "rating": "4,4",
+    "jumlah_review": "(2.155)",
+    "kategori": "·",
+    "alamat": "Kafe",
+    "latitude": -6.275634,
+    "longitude": 106.8208854
+  },
+  {
+    "nama_cafe": "Koempoel Coffee & Eatery",
+    "google_maps_url": "https://www.google.com/maps/place/Koempoel+Coffee+%26+Eatery/data=!4m7!3m6!1s0x2e69f34cebd14e83:0xf8edba543ad4205b!8m2!3d-6.2782243!4d106.8203115!16s%2Fg%2F11w1gnh46q!19sChIJg07R60zzaS4RWyDUOlS67fg?authuser=0&hl=id&rclk=1",
+    "rating": "5,0",
+    "jumlah_review": "(15)",
+    "kategori": "·",
+    "alamat": "Kedai Kopi",
+    "latitude": -6.2782243,
+    "longitude": 106.8203115
+  },
+  {
+    "nama_cafe": "BOSKA COFFEE",
+    "google_maps_url": "https://www.google.com/maps/place/BOSKA+COFFEE/data=!4m7!3m6!1s0x2e69f3ca60099509:0x5ac4c447b9bb74ae!8m2!3d-6.2721043!4d106.8481794!16s%2Fg%2F11m41lyf80!19sChIJCZUJYMrzaS4RrnS7uUfExFo?authuser=0&hl=id&rclk=1",
+    "rating": "4,6",
+    "jumlah_review": "(347)",
+    "kategori": "·",
+    "alamat": "Kedai Kopi",
+    "latitude": -6.2721043,
+    "longitude": 106.8481794
+  },
+  {
+    "nama_cafe": "Estilo Coffee",
+    "google_maps_url": "https://www.google.com/maps/place/Estilo+Coffee/data=!4m7!3m6!1s0x2e69f31fb7fc6c51:0xcf6b23efce26a16!8m2!3d-6.2729986!4d106.8384382!16s%2Fg%2F11qsp_6dvq!19sChIJUWz8tx_zaS4RFmri_D6y9gw?authuser=0&hl=id&rclk=1",
+    "rating": "4,9",
+    "jumlah_review": "(37)",
+    "kategori": null,
+    "alamat": "Kafe",
+    "latitude": -6.2729986,
+    "longitude": 106.8384382
+  },
+  {
+    "nama_cafe": "Sulthan Concept Jakarta",
+    "google_maps_url": "https://www.google.com/maps/place/Sulthan+Concept+Jakarta/data=!4m7!3m6!1s0x2e69f1b1f17278b1:0x5bd366f017e1992c!8m2!3d-6.2778316!4d106.8158899!16s%2Fg%2F11h4y5rq0g!19sChIJsXhy8bHxaS4RLJnhF_Bm01s?authuser=0&hl=id&rclk=1",
+    "rating": "4,7",
+    "jumlah_review": "(40)",
+    "kategori": null,
+    "alamat": "Kafe",
+    "latitude": -6.2778316,
+    "longitude": 106.8158899
+  },
+  {
+    "nama_cafe": "Stuja Coffee Cipete",
+    "google_maps_url": "https://www.google.com/maps/place/Stuja+Coffee+Cipete/data=!4m7!3m6!1s0x2e69f1bcc8f2a35f:0x5ff852ec7c85877c!8m2!3d-6.2779455!4d106.8029863!16s%2Fg%2F11g1zh_jd5!19sChIJX6PyyLzxaS4RfIeFfOxS-F8?authuser=0&hl=id&rclk=1",
+    "rating": "4,6",
+    "jumlah_review": "(1.331)",
+    "kategori": "·",
+    "alamat": "Kedai Kopi",
+    "latitude": -6.2779455,
+    "longitude": 106.8029863
+  },
+  {
+    "nama_cafe": "Cafe Sejam",
+    "google_maps_url": "https://www.google.com/maps/place/Cafe+Sejam/data=!4m7!3m6!1s0x2e69f30dc0200373:0x16732f269aad2075!8m2!3d-6.2719659!4d106.8382006!16s%2Fg%2F11kptrsycq!19sChIJcwMgwA3zaS4RdSCtmiYvcxY?authuser=0&hl=id&rclk=1",
+    "rating": "4,5",
+    "jumlah_review": "(107)",
+    "kategori": "·",
+    "alamat": "Kedai Kopi",
+    "latitude": -6.2719659,
+    "longitude": 106.8382006
+  },
+  {
+    "nama_cafe": "Timebox Coffee & Eatery Kebagusan",
+    "google_maps_url": "https://www.google.com/maps/place/Timebox+Coffee+%26+Eatery+Kebagusan/data=!4m7!3m6!1s0x2e69ed5840a496bb:0xc1183ae2144c8cf3!8m2!3d-6.3126135!4d106.8262244!16s%2Fg%2F11sv5_jhmp!19sChIJu5akQFjtaS4R84xMFOI6GME?authuser=0&hl=id&rclk=1",
+    "rating": "4,7",
+    "jumlah_review": "(87)",
+    "kategori": "·",
+    "alamat": "Kedai Kopi",
+    "latitude": -6.3126135,
+    "longitude": 106.8262244
+  },
+  {
+    "nama_cafe": "Golden Black Coffee - Kemang",
+    "google_maps_url": "https://www.google.com/maps/place/Golden+Black+Coffee+-+Kemang/data=!4m7!3m6!1s0x2e69f33914298511:0xeab4a645d6269247!8m2!3d-6.2670038!4d106.8119412!16s%2Fg%2F11qylpv_j0!19sChIJEYUpFDnzaS4RR5Im1kWmtOo?authuser=0&hl=id&rclk=1",
+    "rating": "4,6",
+    "jumlah_review": "(1.265)",
+    "kategori": "·",
+    "alamat": "Kedai Kopi",
+    "latitude": -6.2670038,
+    "longitude": 106.8119412
+  },
+  {
+    "nama_cafe": "Zenko Kissaten",
+    "google_maps_url": "https://www.google.com/maps/place/Zenko+Kissaten/data=!4m7!3m6!1s0x2e69f3005bc5635d:0x4b7593ecfc5794f8!8m2!3d-6.2766029!4d106.8229227!16s%2Fg%2F11y2nd02kc!19sChIJXWPFWwDzaS4R-JRX_OyTdUs?authuser=0&hl=id&rclk=1",
+    "rating": "4,9",
+    "jumlah_review": "(40)",
+    "kategori": "·",
+    "alamat": "Kafe",
+    "latitude": -6.2766029,
+    "longitude": 106.8229227
+  },
+  {
+    "nama_cafe": "Tongkrongan Jaksel",
+    "google_maps_url": "https://www.google.com/maps/place/Tongkrongan+Jaksel/data=!4m7!3m6!1s0x2e69f372a828b3f1:0x1ab59c1035e18fb9!8m2!3d-6.2751149!4d106.8160126!16s%2Fg%2F11tp6jdvkm!19sChIJ8bMoqHLzaS4RuY_hNRCctRo?authuser=0&hl=id&rclk=1",
+    "rating": "5,0",
+    "jumlah_review": "(57)",
+    "kategori": "·",
+    "alamat": "Kedai Kopi",
+    "latitude": -6.2751149,
+    "longitude": 106.8160126
+  },
+  {
+    "nama_cafe": "Guntomara Cafe",
+    "google_maps_url": "https://www.google.com/maps/place/Guntomara+Cafe/data=!4m7!3m6!1s0x2e69f214fd305859:0x2fce0c8803a12ab9!8m2!3d-6.280543!4d106.8387333!16s%2Fg%2F11f11p384s!19sChIJWVgw_RTyaS4RuSqhA4gMzi8?authuser=0&hl=id&rclk=1",
+    "rating": "4,3",
+    "jumlah_review": "(12)",
+    "kategori": null,
+    "alamat": "Kafe",
+    "latitude": -6.280543,
+    "longitude": 106.8387333
+  },
+  {
+    "nama_cafe": "WISDOM Coffee",
+    "google_maps_url": "https://www.google.com/maps/place/WISDOM+Coffee/data=!4m7!3m6!1s0x2e69ed525d245877:0x5e81622c300135fa!8m2!3d-6.3058841!4d106.8206873!16s%2Fg%2F11t_vl9nk2!19sChIJd1gkXVLtaS4R-jUBMCxigV4?authuser=0&hl=id&rclk=1",
+    "rating": "4,9",
+    "jumlah_review": "(16)",
+    "kategori": "·",
+    "alamat": "Kedai Kopi",
+    "latitude": -6.3058841,
+    "longitude": 106.8206873
+  },
+  {
+    "nama_cafe": "Koffie Home",
+    "google_maps_url": "https://www.google.com/maps/place/Koffie+Home/data=!4m7!3m6!1s0x2e69ef75bd5c6d6d:0x2abd9e730ad01957!8m2!3d-6.3431089!4d106.8173478!16s%2Fg%2F11fkf52qp8!19sChIJbW1cvXXvaS4RVxnQCnOevSo?authuser=0&hl=id&rclk=1",
+    "rating": "4,7",
+    "jumlah_review": "(706)",
+    "kategori": "·",
+    "alamat": "Kedai Kopi",
+    "latitude": -6.3431089,
+    "longitude": 106.8173478
+  },
+  {
+    "nama_cafe": "Antipodean Coffee",
+    "google_maps_url": "https://www.google.com/maps/place/Antipodean+Coffee/data=!4m7!3m6!1s0x2e69f22bcea31151:0x90c13e76e4090c38!8m2!3d-6.265255!4d106.8204611!16s%2Fg%2F11g_f_yby!19sChIJURGjzivyaS4ROAwJ5HY-wZA?authuser=0&hl=id&rclk=1",
+    "rating": "4,4",
+    "jumlah_review": "(472)",
+    "kategori": "·",
+    "alamat": "Kafe",
+    "latitude": -6.265255,
+    "longitude": 106.8204611
+  },
+  {
+    "nama_cafe": "TADOR Coffee",
+    "google_maps_url": "https://www.google.com/maps/place/TADOR+Coffee/data=!4m7!3m6!1s0x2e69f315043f04b7:0x811e5af841ba018e!8m2!3d-6.2645595!4d106.8437644!16s%2Fg%2F11q2yntswz!19sChIJtwQ_BBXzaS4RjgG6QfhaHoE?authuser=0&hl=id&rclk=1",
+    "rating": "4,6",
+    "jumlah_review": "(264)",
+    "kategori": "·",
+    "alamat": "Kedai Kopi",
+    "latitude": -6.2645595,
+    "longitude": 106.8437644
+  },
+  {
+    "nama_cafe": "Mandira's Garden",
+    "google_maps_url": "https://www.google.com/maps/place/Mandira%27s+Garden/data=!4m7!3m6!1s0x2e69f22a246f1beb:0x8ca6a391c7030f5b!8m2!3d-6.2732844!4d106.8208422!16s%2Fg%2F11bwh85kld!19sChIJ6xtvJCryaS4RWw8Dx5Gjpow?authuser=0&hl=id&rclk=1",
+    "rating": "4,3",
+    "jumlah_review": "(216)",
+    "kategori": "·",
+    "alamat": "Makanan Sehat",
+    "latitude": -6.2732844,
+    "longitude": 106.8208422
+  },
+  {
+    "nama_cafe": "Bangi Kopi Pasar Minggu",
+    "google_maps_url": "https://www.google.com/maps/place/Bangi+Kopi+Pasar+Minggu/data=!4m7!3m6!1s0x2e69f249ae30615b:0xadefb98af0289a41!8m2!3d-6.2651439!4d106.8441543!16s%2Fg%2F11bxk04k27!19sChIJW2EwrknyaS4RQZoo8Iq5760?authuser=0&hl=id&rclk=1",
+    "rating": "4,4",
+    "jumlah_review": "(4.184)",
+    "kategori": "·",
+    "alamat": "Kafe",
+    "latitude": -6.2651439,
+    "longitude": 106.8441543
+  },
+  {
+    "nama_cafe": "Kopi Cat Cafe by Groovy - Kemang",
+    "google_maps_url": "https://www.google.com/maps/place/Kopi+Cat+Cafe+by+Groovy+-+Kemang/data=!4m7!3m6!1s0x2e69f198358063ff:0x3b9e3c6c4353a215!8m2!3d-6.2672572!4d106.8143343!16s%2Fg%2F11f7dt3_nv!19sChIJ_2OANZjxaS4RFaJTQ2w8njs?authuser=0&hl=id&rclk=1",
+    "rating": "4,8",
+    "jumlah_review": "(747)",
+    "kategori": "·",
+    "alamat": "Kafe kucing",
+    "latitude": -6.2672572,
+    "longitude": 106.8143343
+  },
+  {
+    "nama_cafe": "UNO Cafe - Coffee and Eatery: Speciality on Vietnamese Coffee and Food",
+    "google_maps_url": "https://www.google.com/maps/place/UNO+Cafe+-+Coffee+and+Eatery:+Speciality+on+Vietnamese+Coffee+and+Food/data=!4m7!3m6!1s0x2e69f3c538f68e9f:0x955061e705060108!8m2!3d-6.266311!4d106.8363365!16s%2Fg%2F11v0c2yvcq!19sChIJn472OMXzaS4RCAEGBedhUJU?authuser=0&hl=id&rclk=1",
+    "rating": "4,7",
+    "jumlah_review": "(149)",
+    "kategori": "·",
+    "alamat": "Kafe",
+    "latitude": -6.266311,
+    "longitude": 106.8363365
+  },
+  {
+    "nama_cafe": "Quality Garden",
+    "google_maps_url": "https://www.google.com/maps/place/Quality+Garden/data=!4m7!3m6!1s0x2e69f2274f4d9fb5:0x6a51c6d4a787b2ce!8m2!3d-6.273298!4d106.8188275!16s%2Fg%2F11f3vml7nn!19sChIJtZ9NTyfyaS4RzrKHp9TGUWo?authuser=0&hl=id&rclk=1",
+    "rating": "4,7",
+    "jumlah_review": "(46)",
+    "kategori": "·",
+    "alamat": "Kafe",
+    "latitude": -6.273298,
+    "longitude": 106.8188275
+  },
+  {
+    "nama_cafe": "Anomali Coffee Kemang",
+    "google_maps_url": "https://www.google.com/maps/place/Anomali+Coffee+Kemang/data=!4m7!3m6!1s0x2e69f187c9c7795f:0x25edaa7fd732dc16!8m2!3d-6.2671988!4d106.8155791!16s%2Fg%2F11h048ll3!19sChIJX3nHyYfxaS4RFtwy13-q7SU?authuser=0&hl=id&rclk=1",
+    "rating": "4,4",
+    "jumlah_review": "(1.597)",
+    "kategori": "·",
+    "alamat": "Mesin Sangrai Kopi",
+    "latitude": -6.2671988,
+    "longitude": 106.8155791
+  },
+  {
+    "nama_cafe": "Fume Coffee & Kitchen (Kemang)",
+    "google_maps_url": "https://www.google.com/maps/place/Fume+Coffee+%26+Kitchen+%28Kemang%29/data=!4m7!3m6!1s0x2e69f385a8e7b87b:0x7d91f889ab20b90e!8m2!3d-6.2651503!4d106.8205437!16s%2Fg%2F11j8xfq1k1!19sChIJe7jnqIXzaS4RDrkgq4n4kX0?authuser=0&hl=id&rclk=1",
+    "rating": "4,7",
+    "jumlah_review": "(106)",
+    "kategori": null,
+    "alamat": "Kafe",
+    "latitude": -6.2651503,
+    "longitude": 106.8205437
+  },
+  {
+    "nama_cafe": "Payu Coffee & Eatery",
+    "google_maps_url": "https://www.google.com/maps/place/Payu+Coffee+%26+Eatery/data=!4m7!3m6!1s0x2e69f16990e588cf:0xf999e28354af0231!8m2!3d-6.2467626!4d106.7905653!16s%2Fg%2F11pwwv2p7x!19sChIJz4jlkGnxaS4RMQKvVIPimfk?authuser=0&hl=id&rclk=1",
+    "rating": "4,6",
+    "jumlah_review": "(363)",
+    "kategori": "·",
+    "alamat": "Kedai Kopi",
+    "latitude": -6.2467626,
+    "longitude": 106.7905653
+  },
+  {
+    "nama_cafe": "High Cube Cafe & Resto",
+    "google_maps_url": "https://www.google.com/maps/place/High+Cube+Cafe+%26+Resto/data=!4m7!3m6!1s0x2e69f3254dbe3c3f:0xe2d46ed38f900c3d!8m2!3d-6.2791893!4d106.8299708!16s%2Fg%2F11lh2td7bl!19sChIJPzy-TSXzaS4RPQyQj9Nu1OI?authuser=0&hl=id&rclk=1",
+    "rating": "4,6",
+    "jumlah_review": "(45)",
+    "kategori": "·",
+    "alamat": "Kafe",
+    "latitude": -6.2791893,
+    "longitude": 106.8299708
+  },
+  {
+    "nama_cafe": "Chief Coffee - Kemang",
+    "google_maps_url": "https://www.google.com/maps/place/Chief+Coffee+-+Kemang/data=!4m7!3m6!1s0x2e69f1804f26b883:0x6c30985c0a34370b!8m2!3d-6.2600471!4d106.8156522!16s%2Fg%2F11g8wd5vmf!19sChIJg7gmT4DxaS4RCzc0ClyYMGw?authuser=0&hl=id&rclk=1",
+    "rating": "4,6",
+    "jumlah_review": "(752)",
+    "kategori": "·",
+    "alamat": "Kafe",
+    "latitude": -6.2600471,
+    "longitude": 106.8156522
+  },
+  {
+    "nama_cafe": "Kopikalyan Wijaya - Cafe Melawai",
+    "google_maps_url": "https://www.google.com/maps/place/Kopikalyan+Wijaya+-+Cafe+Melawai/data=!4m7!3m6!1s0x2e69f13c72e1b2b9:0x4f5d905d76006fba!8m2!3d-6.2487953!4d106.8035563!16s%2Fg%2F11qqscqsk5!19sChIJubLhcjzxaS4Rum8Adl2QXU8?authuser=0&hl=id&rclk=1",
+    "rating": "4,6",
+    "jumlah_review": "(2.488)",
+    "kategori": "·",
+    "alamat": "Kedai Kopi",
+    "latitude": -6.2487953,
+    "longitude": 106.8035563
+  },
+  {
+    "nama_cafe": "Living-Room Coffeehouse Jakarta",
+    "google_maps_url": "https://www.google.com/maps/place/Living-Room+Coffeehouse+Jakarta/data=!4m7!3m6!1s0x2e69f124b1511637:0x9fa0a4f3fb76b231!8m2!3d-6.2655445!4d106.8162684!16s%2Fg%2F11j742831m!19sChIJNxZRsSTxaS4RMbJ2-_OkoJ8?authuser=0&hl=id&rclk=1",
+    "rating": "4,4",
+    "jumlah_review": "(103)",
+    "kategori": "·",
+    "alamat": "Kedai Kopi",
+    "latitude": -6.2655445,
+    "longitude": 106.8162684
+  },
+  {
+    "nama_cafe": "Coffee Koup! Pejaten",
+    "google_maps_url": "https://www.google.com/maps/place/Coffee+Koup!+Pejaten/data=!4m7!3m6!1s0x2e69f345da8bf543:0x258bccd7ed39d85d!8m2!3d-6.2704324!4d106.8377801!16s%2Fg%2F11ncm96f3p!19sChIJQ_WL2kXzaS4RXdg57dfMiyU?authuser=0&hl=id&rclk=1",
+    "rating": "4,5",
+    "jumlah_review": "(44)",
+    "kategori": "·",
+    "alamat": "Kedai Kopi",
+    "latitude": -6.2704324,
+    "longitude": 106.8377801
+  },
+  {
+    "nama_cafe": "Pison Coffee Jakarta",
+    "google_maps_url": "https://www.google.com/maps/place/Pison+Coffee+Jakarta/data=!4m7!3m6!1s0x2e69f15c026b141f:0xa7f64e78df23723a!8m2!3d-6.2336553!4d106.8118554!16s%2Fg%2F11dztjmf6w!19sChIJHxRrAlzxaS4ROnIj33hO9qc?authuser=0&hl=id&rclk=1",
+    "rating": "4,6",
+    "jumlah_review": "(2.418)",
+    "kategori": "·",
+    "alamat": "Kafe",
+    "latitude": -6.2336553,
+    "longitude": 106.8118554
+  },
+  {
+    "nama_cafe": "Narabe Coffee & Gallery",
+    "google_maps_url": "https://www.google.com/maps/place/Narabe+Coffee+%26+Gallery/data=!4m7!3m6!1s0x2e69f17da6228bdb:0x8a9623d4b6ce6a59!8m2!3d-6.3000507!4d106.7762562!16s%2Fg%2F11v5bjttnt!19sChIJ24sipn3xaS4RWWrOttQjloo?authuser=0&hl=id&rclk=1",
+    "rating": "4,6",
+    "jumlah_review": "(212)",
+    "kategori": "·",
+    "alamat": "Kedai Kopi",
+    "latitude": -6.3000507,
+    "longitude": 106.7762562
+  },
+  {
+    "nama_cafe": "ORKA Coffee - Tebet",
+    "google_maps_url": "https://www.google.com/maps/place/ORKA+Coffee+-+Tebet/data=!4m7!3m6!1s0x2e69f3bb561ebaff:0x83e06b20c1d83cf7!8m2!3d-6.2365625!4d106.8467555!16s%2Fg%2F11lgkthlj0!19sChIJ_7oeVrvzaS4R9zzYwSBr4IM?authuser=0&hl=id&rclk=1",
+    "rating": "4,6",
+    "jumlah_review": "(874)",
+    "kategori": "·",
+    "alamat": "Kedai Kopi",
+    "latitude": -6.2365625,
+    "longitude": 106.8467555
+  },
+  {
+    "nama_cafe": "Phala-wan Cafe",
+    "google_maps_url": "https://www.google.com/maps/place/Phala-wan+Cafe/data=!4m7!3m6!1s0x2e69f3499cad8a37:0xe3763a7711798b30!8m2!3d-6.2553726!4d106.8442388!16s%2Fg%2F11pzfkbvwp!19sChIJN4qtnEnzaS4RMIt5EXc6duM?authuser=0&hl=id&rclk=1",
+    "rating": "4,5",
+    "jumlah_review": "(571)",
+    "kategori": "·",
+    "alamat": "Kedai Kopi",
+    "latitude": -6.2553726,
+    "longitude": 106.8442388
+  },
+  {
+    "nama_cafe": "Worthland coffee",
+    "google_maps_url": "https://www.google.com/maps/place/Worthland+coffee/data=!4m7!3m6!1s0x2e69efc77fbb8e1f:0xd9a041b965008a6b!8m2!3d-6.3257437!4d106.8157974!16s%2Fg%2F11jnqsd126!19sChIJH467f8fvaS4Ra4oAZblBoNk?authuser=0&hl=id&rclk=1",
+    "rating": "4,7",
+    "jumlah_review": "(19)",
+    "kategori": null,
+    "alamat": "Kedai Kopi",
+    "latitude": -6.3257437,
+    "longitude": 106.8157974
+  },
+  {
+    "nama_cafe": "Six Ounces Coffee Panglima Polim",
+    "google_maps_url": "https://www.google.com/maps/place/Six+Ounces+Coffee+Panglima+Polim/data=!4m7!3m6!1s0x2e69f1cbe8480d7b:0x5be13f5e4baf6e1e!8m2!3d-6.249483!4d106.80038!16s%2Fg%2F11hf18tc4s!19sChIJew1I6MvxaS4RHm6vS14_4Vs?authuser=0&hl=id&rclk=1",
+    "rating": "4,6",
+    "jumlah_review": "(1.518)",
+    "kategori": "·",
+    "alamat": "Kafe",
+    "latitude": -6.249483,
+    "longitude": 106.80038
+  },
+  {
+    "nama_cafe": "Lima Detik Eightynine Kemang",
+    "google_maps_url": "https://www.google.com/maps/place/Lima+Detik+Eightynine+Kemang/data=!4m7!3m6!1s0x2e69f17a9ba561cf:0x6b1eb29e01a50b07!8m2!3d-6.27044!4d106.815453!16s%2Fg%2F11j3qnxffx!19sChIJz2Glm3rxaS4RBwulAZ6yHms?authuser=0&hl=id&rclk=1",
+    "rating": "4,4",
+    "jumlah_review": "(2.264)",
+    "kategori": null,
+    "alamat": "Kedai Kopi",
+    "latitude": -6.27044,
+    "longitude": 106.815453
+  }
+]
