@@ -8,7 +8,7 @@ Data tersedia di folder `data/`:
 - Jakarta Barat
 - Jakarta Utara
 - Jakarta Pusat
-
+- Jakarta All
 ## Field
 Setiap cafe memiliki:
 - nama_cafe
